@@ -1,8 +1,12 @@
 ### Hi gh :>
-## About me:
-- Extremely advanced junior teach lead
-- Software Enthusiast
-- Aspiring programming meme lord
+## About me
+- Extremely advanced junior teach lead 🧑🏻‍💻
+- Software Enthusiast 😸
+- Aspiring programming meme lord 😔
+- Reach me at: 
+  - jonas.wahringer@gmail.com <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/5b2a5da4-7af6-4270-8052-86cb6a2c0357" />
+  - Jonas Wahringer <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9a468552-377e-40e3-bf48-ca0467af5f99" />
+
 
 <!--
 **jonaswahringer/jonaswahringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
