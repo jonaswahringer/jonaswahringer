@@ -1,4 +1,7 @@
-### Extremely advanced junior teach lead
+### Hi gh :>
+- Extremely advanced junior teach lead
+- Software Enthusiast
+- Aspiring programming meme lord
 
 <!--
 **jonaswahringer/jonaswahringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
