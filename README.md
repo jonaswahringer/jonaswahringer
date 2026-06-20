@@ -1,4 +1,5 @@
 ### Hi gh :>
+## About me:
 - Extremely advanced junior teach lead
 - Software Enthusiast
 - Aspiring programming meme lord
