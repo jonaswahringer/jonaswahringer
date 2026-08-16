@@ -7,7 +7,9 @@
 ### Website
 www.jonas.wahringer.com
 ## Reach me
+  - <a href="https://www.linkedin.com/in/jonas-wahringer-83b948203/">jonas wahringer</a> - <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/9a468552-377e-40e3-bf48-ca0467af5f99" />
   - jonas.wahringer@gmail.com - <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/5b2a5da4-7af6-4270-8052-86cb6a2c0357" />
+
 
 
 <!--
