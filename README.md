@@ -1,6 +1,6 @@
 ### Hi gh :>
 ## About me
-- Extremely advanced junior teach lead 🧑🏻‍💻
+- I like systems and building things 🧑🏻‍💻
 - Software Enthusiast 😸
 - Aspiring programming meme lord 😔
 ## Reach me
