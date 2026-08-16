@@ -3,8 +3,8 @@
 - I like systems and building things 🧑🏻‍💻
 - Software Enthusiast 😸
 - Aspiring programming meme lord 😔
-## Website
-- jonas.wahringer.com
+### Website
+www.jonas.wahringer.com
 ## Reach me
   - jonas.wahringer@gmail.com - <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/5b2a5da4-7af6-4270-8052-86cb6a2c0357" />
 
