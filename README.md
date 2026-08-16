@@ -1,8 +1,9 @@
 ### Hi gh :>
 ## About me
 - I like systems and building things 🧑🏻‍💻
-- Software Enthusiast 😸
-- Aspiring programming meme lord 😔
+- Software & Music enthusiast 😸
+- Poet and Thinker 🗣️
+- Aspiring meme lord 😔
 ### Website
 www.jonas.wahringer.com
 ## Reach me
